@@ -11,11 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Welcome to the HPC+AI team.
-
-
-The HPC+AI team
-
 
 The HPC+AI Research Group is led by Professor Weile Jia at the Institute of Computing Technology, Chinese Academy of Sciences. We focus on the intersection of high-performance computing and artificial intelligence to advance scientific discovery and computational research.
 
